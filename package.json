@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/binaryluke/resxfromjson.git"
+    "url": "git+https://github.com/binaryluke/jsonfromresx.git"
   },
   "keywords": [
     "resources",
@@ -22,9 +22,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/binaryluke/resxfromjson/issues"
+    "url": "https://github.com/binaryluke/jsonfromresx/issues"
   },
-  "homepage": "https://github.com/binaryluke/resxfromjson#readme",
+  "homepage": "https://github.com/binaryluke/jsonfromresx#readme",
   "files": [
     "src"
   ],
