@@ -1,7 +1,7 @@
 {
   "name": "jsonfromresx",
   "version": "1.0.0",
-  "description": "Convert resource files (.resx) from .NET projects.resx files into JavaScript objects",
+  "description": "Convert resource files (.resx) into JavaScript objects.",
   "main": "src/jsonfromresx.js",
   "scripts": {
     "test": "nodeunit tests/"
