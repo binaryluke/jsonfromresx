@@ -1,0 +1,40 @@
+{
+  "name": "jsonfromresx",
+  "version": "1.0.0",
+  "description": "Convert resource files (.resx) from .NET projects.resx files into JavaScript objects",
+  "main": "src/jsonfromresx.js",
+  "scripts": {
+    "test": "nodeunit tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binaryluke/resxfromjson.git"
+  },
+  "keywords": [
+    "resources",
+    "resx",
+    "json",
+    "convert"
+  ],
+  "author": {
+    "name": "Luke Howard",
+    "email": "binaryluke@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binaryluke/resxfromjson/issues"
+  },
+  "homepage": "https://github.com/binaryluke/resxfromjson#readme",
+  "files": [
+    "src"
+  ],
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-nodeunit": "^0.4.1",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "dependencies": {
+    "xml2js": "^0.4.10"
+  }
+}
