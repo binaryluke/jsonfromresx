@@ -19,7 +19,7 @@ This module is only designed to work as a node module.
 The easiest way to install it is with:
 
 ```shell
-npm install grunt-contrib-jshint --save-dev
+npm install jsonfromresx --save-dev
 ```
 
 ## Usage
